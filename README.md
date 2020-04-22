@@ -1,1 +1,1 @@
-# electron-quick-start
+# read data from serial port with electon
